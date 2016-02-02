@@ -1,5 +1,5 @@
 {
-    "name": “successengine/bigcommerce/api",
+    "name": "successengine/bigcommerce/api",
     "type": "library",
     "description": "Enables PHP applications to communicate with the Bigcommerce API.",
     "keywords": ["api", "http", "rest", "ecommerce", "business"],
@@ -16,7 +16,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "4.5.*",
-        "satooshi/php-coveralls": "1.0",
+        "satooshi/php-coveralls": "dev-master",
         "codeless/jugglecode": "1.0"
     },
     "autoload": {
